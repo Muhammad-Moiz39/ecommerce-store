@@ -1,0 +1,185 @@
+[
+  {
+    "id": 1,
+    "name": "Gradient Graphic T-shirt",
+    "category": "T-shirts",
+    "price": 145,
+    "oldPrice": 0,
+    "rating": 3.5,
+    "image": "assets/gradient.png",
+    "description": "A comfortable graphic tee made for everyday outfits.",
+    "colors": [
+      "#111111",
+      "#F50606",
+      "#FFFFFF"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Polo with Tipping Details",
+    "category": "Shirts",
+    "price": 180,
+    "oldPrice": 0,
+    "rating": 4.5,
+    "image": "assets/polo.png",
+    "description": "A classic polo with clean tipping details and a smart finish.",
+    "colors": [
+      "#111111",
+      "#FFFFFF",
+      "#063AF5"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Black Striped T-shirt",
+    "category": "T-shirts",
+    "price": 120,
+    "oldPrice": 160,
+    "rating": 5,
+    "image": "assets/blackstrip.png",
+    "description": "A versatile striped tee with a modern everyday fit.",
+    "colors": [
+      "#111111",
+      "#FFFFFF"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Skinny Fit Jeans",
+    "category": "Jeans",
+    "price": 240,
+    "oldPrice": 260,
+    "rating": 3.5,
+    "image": "assets/skinnyjeans.png",
+    "description": "Slim, easy-to-style denim for a clean casual look.",
+    "colors": [
+      "#063AF5",
+      "#111111"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ]
+  },
+  {
+    "id": 5,
+    "name": "Checkered Shirt",
+    "category": "Shirts",
+    "price": 180,
+    "oldPrice": 0,
+    "rating": 4.5,
+    "image": "assets/checkered.png",
+    "description": "A timeless checkered shirt for casual and smart-casual days.",
+    "colors": [
+      "#111111",
+      "#FFFFFF"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ]
+  },
+  {
+    "id": 6,
+    "name": "Sleeve Striped T-shirt",
+    "category": "T-shirts",
+    "price": 130,
+    "oldPrice": 160,
+    "rating": 4.5,
+    "image": "assets/sleevestrip.png",
+    "description": "A fresh striped tee with subtle sleeve detailing.",
+    "colors": [
+      "#111111",
+      "#FFFFFF"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ]
+  },
+  {
+    "id": 7,
+    "name": "Vertical Striped Shirt",
+    "category": "Shirts",
+    "price": 212,
+    "oldPrice": 232,
+    "rating": 5,
+    "image": "assets/verticalstrip.png",
+    "description": "Vertical stripes give this shirt a refined, easy-to-wear style.",
+    "colors": [
+      "#111111",
+      "#FFFFFF",
+      "#063AF5"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ]
+  },
+  {
+    "id": 8,
+    "name": "Courage Graphic T-shirt",
+    "category": "T-shirts",
+    "price": 145,
+    "oldPrice": 0,
+    "rating": 4,
+    "image": "assets/graphicshirt.png",
+    "description": "A bold graphic tee that adds personality to your rotation.",
+    "colors": [
+      "#111111",
+      "#FFFFFF"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ]
+  },
+  {
+    "id": 9,
+    "name": "Loose Fit Bermuda Shorts",
+    "category": "Shorts",
+    "price": 80,
+    "oldPrice": 0,
+    "rating": 3,
+    "image": "assets/loosefit.png",
+    "description": "Relaxed-fit shorts for effortless everyday comfort.",
+    "colors": [
+      "#111111",
+      "#FFFFFF"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ]
+  }
+]
